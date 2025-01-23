@@ -62,5 +62,4 @@ This repository contains the Verilog HDL implementation of a 1x3 router for FPGA
 **For further inquiries or support, please contact:**
 * Neeraj Goud Nagunoori => neerajnagunoori12@gmail.com
 
-**Note**
-refer master branch for the files
+
